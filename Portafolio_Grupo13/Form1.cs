@@ -86,7 +86,7 @@ namespace Portafolio_Grupo13
         private void btnGitHub_Click(object sender, EventArgs e)
         {
             // ¡¡CAMBIA ESTA URL POR LA DE TU REPOSITORIO!!
-            string url = "https://github.com/DIEGOJGS/";
+            string url = "https://github.com/DIEGOJGS/Portafolio_Grupo13_UPN";
 
             try
             {
