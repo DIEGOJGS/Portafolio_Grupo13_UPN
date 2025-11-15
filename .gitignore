@@ -1,0 +1,6 @@
+# Archivos del IDE
+.vs/
+
+# Archivos de compilación
+bin/
+obj/
